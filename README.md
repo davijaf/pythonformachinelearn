@@ -6,17 +6,17 @@ Aprofundar conhecimentos na linguagem Python direcionados à área de Machine Le
 
 ### Conteúdo
 
-* 1 - APROFUNDAMENTO EM PYTHON
-Microlearning 1 – Introdução à programação funcional
-Microlearning 2 – Funções da biblioteca padrão
-Microlearning 3 – Trabalhando com datas
+#### 1 - APROFUNDAMENTO EM PYTHON
+* Microlearning 1 – Introdução à programação funcional
+* Microlearning 2 – Funções da biblioteca padrão
+* Microlearning 3 – Trabalhando com datas
 
-* 2 - INTRODUÇÃO DA MATEMÁTICA EM PYTHON
-Introdução a Bibliotecas Matemá
+#### 2 - INTRODUÇÃO DA MATEMÁTICA EM PYTHON
+* Introdução a Bibliotecas Matemáticas
 
-* 3 - INTRODUÇÃO A NUMPY
-Introdução a NumPy
+#### 3 - INTRODUÇÃO A NUMPY
+* Introdução a NumPy
 
-* 4 - PERSISTÊNCIA DE DADOS
-Guardando na memória
-Serialização de dados
+#### 4 - PERSISTÊNCIA DE DADOS
+* Guardando na memória
+* Serialização de dados
